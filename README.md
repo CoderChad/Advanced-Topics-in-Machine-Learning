@@ -7,7 +7,7 @@ The following provides a description of the tools and techniques I learned from 
 This course provides a practical introduction to tools and techniques for different stages of machine learning life-cycle from model development to post-deployment.  Beyond model development, the class will be introduced to tools
 for creating robust models, explaining model predictions, conducting bias and fairness audits, detecting post-deployment model drift and continual training. 
 
-##**Module 1:** AI revolution, ML concepts, Introduction to ML tooling
+## **Module 1:** AI revolution, ML concepts, Introduction to ML tooling
 
 
 AI revolution and success factors; ML viewpoints: algorithmic vs system; ML system and its
