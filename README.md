@@ -16,7 +16,7 @@ metrics: algorithmic and system level; ML performance concepts/techniques: overf
 generalization, bias, variance, regularization; ML lifecycle and different stages; importance of
 tooling in ML
 
-**Module 2:** Deep Learning (DL)
+## **Module 2:** Deep Learning (DL)
 
 
 Single layer neural network; multi-layer neural network; activation functions; loss functions;
@@ -27,7 +27,7 @@ augmentation; contrastive loss
 
 
 
-**Module 3:** DL Training Tools and Techniques
+## **Module 3:** DL Training Tools and Techniques
 
 
 DL datasets: MNIST, FashionMNIST, CIFAR10/100, ImageNet; Introduction to DL
@@ -36,7 +36,7 @@ and PyTorch; DL training-logs and their analysis; checkpointing: framework speci
 and restarting from checkpoint; DL stack on cloud; ML platforms on cloud: AWS, Microsoft,
 Google, and IBM; DL training on cloud platforms; Learning with limited labels
 
-**Module 4:** Special Deep Learning Architectures
+## **Module 4:** Special Deep Learning Architectures
 
 
 Convolutional neural networks; ; Recurrent neural networks: RNNs, LSTMs, GRUs; Word
@@ -44,14 +44,14 @@ embeddings, Attention networks and Transformers; Generative adversarial networks
 Few-shot learning networks; Siamese neural networks
 
 
-**Module 5:** Hyperparameter Optimization and Feature Engineering 
+## **Module 5:** Hyperparameter Optimization and Feature Engineering 
 
 
 Challenges in hyperparameter optimization; hyperparameter optimization techniques: gridsearch, random search, Bayesian; SMBO, successive halving; Hyperband algorithm; challenges
 in feature engineering; tools for feature engineering: Featuretools, AutoFeat, TSFresh
 
 
-**Module 6:** Automated Machine Learning
+## **Module 6:** Automated Machine Learning
 
 
 Machine learning pipeline and its automation; AutoML; Neural Architecture Search (NAS)
@@ -60,13 +60,13 @@ for accuracy prediction; Automated ML tools: auto-sklearn, auto-weka, Tpopt, Hyp
 Neural Network Intelligence (NNI); H20 AutoML; Overview of AutoML platforms: IBM
 AutoAI, Google AutoML; Open Neural Network Exchange (ONNX)
 
-**Module 7:** Robust Machine Learning
+## **Module 7:** Robust Machine Learning
 
 
 Model brittlness; adversarial attacks; adversarial defenses; adversarial training; analysis using
 Adversarial Robustness Toolbox
 
-**Module 8:** Distributed Training and Federated Learning
+## **Module 8:** Distributed Training and Federated Learning
 
 
 Single node training with multiple GPUs; Parallelism in DL training: model parallelism, data
@@ -76,7 +76,7 @@ Pytorch data parallelism support: DataParallel, DistributedDataParallel, Distrib
 Federated learning, FedAvg; Adversarial training in federated setting. 
 
 
-**Module 9:** Model drift and Continual learning
+## **Module 9:** Model drift and Continual learning
 
 
 ML model drift; data drift and concept drift; monitoring and drift detection; model retraining;
